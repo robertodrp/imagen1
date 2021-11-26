@@ -1,0 +1,69 @@
+/* Fondo del fondo */
+
+.fondoVerdeAgua{
+    background-color: #1abc9c;
+}
+
+/* Fondos De los recuadroas */
+
+.fondoR{
+    background-color: #e74c3c;
+}
+
+.fondoV{
+    background-color: #2ecc71;
+}
+
+.fondoM{
+    background-color: #9b58b6;
+}
+
+/* Color de Letras OwO */
+
+.LetraBlanca{
+    color: #FFFFFF;
+    font-size: 35px;
+    
+}
+
+.LetraNegra{
+    color: #000000;
+    font-size: 25px;
+}
+
+/* Tmaño tablas */
+
+.tamañoT1{
+    width: 100%;
+    height: 100px;
+}
+
+.tamañoT2{
+    width: 100%;
+    height: 400px;
+}
+
+/* Bordes */
+
+.bordeBDifuminado{
+    border: #FFFFFF 5px ridge;
+}
+
+.bordeBSolido{
+    border: #FFFFFF 3px solid;
+}
+
+/* Tmaño celdas */
+
+.tamañoC1{
+    width: 70%;
+}
+
+.tamañoC2{
+    width: 60%;
+}
+
+.tamañoC3{
+    width: 100%;
+    height: 80px;
+}
